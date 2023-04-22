@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/LagostaEX/LagostaEX/">
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lagostaex&theme=midnight-purple&show_icons=true">
- <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagostaex&theme=midnight-purple">
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagostaex&theme=midnight-purple">
 </div>
 
 <div style="display: flex"><br>
